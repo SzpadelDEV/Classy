@@ -1,0 +1,18 @@
+{
+  "name": "boty-reklamowe",
+  "version": "1.0.0",
+  "description": "Beasty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lubied#6666",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.3.1",
+    "moment": "^2.27.0",
+    "quick.db": "^7.1.1",
+    "quick.hook": "^1.5.1"
+  }
+}
